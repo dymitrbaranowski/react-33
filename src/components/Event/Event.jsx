@@ -1,7 +1,7 @@
 import { FaMapMarkerAlt, FaCalendarAlt, FaUserAlt, FaClock } from 'react-icons/fa';
 
 import { formatEventDuration, formatEventStart } from '../utils';
-import { iconSize } from 'contants';
+import { iconSize } from 'constants';
 import { Card, EventName, Info, Chip } from './Event.styled';
 // import { formatEventStart } from '../utils/formatEventStart';
 // import { formatEventDuration } from '../utils/formatEventDuration';
